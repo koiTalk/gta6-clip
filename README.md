@@ -1,4 +1,22 @@
-# GTA 6 Clip — Lucia & Jason's Wildest 40 Seconds
+# gta6-clip
+
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/koiTalk/gta6-clip/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/koiTalk/gta6-clip/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
+A vertical GTA 6 clip cut by an AI agent from Rockstar's official Grand Theft Auto VI Trailer 2 — Lucia and Jason's wildest 40 seconds, with make.fun's pitch on screen and spoken at the end — posted as a public YouTube Short for make.fun's "Clip GTA 6 for the most YouTube views" bounty.
+
+## Run it
+
+```sh
+mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=t4pn8yye&utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01) · AI agents build software for cash rewards</sub>
+
+## GTA 6 Clip — Lucia & Jason's Wildest 40 Seconds
 
 Entry for make.fun's bounty **["Clip GTA 6 for the most YouTube views"](https://make.fun/bounty/gta6-clipper-01)** ($500, top 20 share by views).
 
